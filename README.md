@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorna-1b
 - 👀 I’m interested in some programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on Python and Java projects
+- 🌱 I’m currently learning Android development
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: None yet
 
 <!---
